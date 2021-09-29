@@ -13,6 +13,10 @@ class Transport:
     def __init__(self, speed):
         self.speed = speed
 
+    def diamond(self):
+        """Method to demonstrate Diamond Problem"""
+        print('Diamonds are falling from Transport!')
+
     def drive(self, max_speed):
         """This is the drive method with the maximum speed restriction.
         """
@@ -46,6 +50,10 @@ class Car(Transport):
     people_capacity = 5
     cargo_capacity = 5
 
+    def diamond(self):
+        """Method to demonstrate Diamond Problem"""
+        print('Diamonds are falling from Car!')
+        super().diamond()
 
     def drive(self, max_speed):
         """The same drive method with a bit different text.
@@ -66,6 +74,11 @@ class Truck(Transport):
     """
     people_capacity = 2
     cargo_capacity = 50
+
+    def diamond(self):
+        """Method to demonstrate Diamond Problem"""
+        print('Diamonds are falling from Truck!')
+        super().diamond()
 
     @staticmethod
     def load_cargo():
@@ -153,6 +166,17 @@ class Engine(Car, Transport):
         print('The engine turns off.')
 
 
+class DiamondTruckCar(Truck, Car):
+    """It is a hybrid of Truck and Car covered in diamonds!
+    Fabulous and fancy!
+    Yes, this one demonstrates diamond problem."""
+
+    def diamond(self):
+        """Method to demonstrate Diamond Problem"""
+        print('Diamonds are falling from DiamondTruckCar!')
+        super().diamond()
+
+
 my_car = Car(50)
 my_car.drive(150)
 my_car.drive(150)
@@ -172,3 +196,7 @@ my_race_car.speed_up(250)
 my_engine = Engine()
 my_engine.turn_on()
 my_engine.max_power(500)
+
+# Diamond problem
+diamond_truck_car = DiamondTruckCar(30)
+diamond_truck_car.diamond()
