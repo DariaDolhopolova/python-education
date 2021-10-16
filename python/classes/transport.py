@@ -200,3 +200,4 @@ my_engine.max_power(500)
 # Diamond problem
 diamond_truck_car = DiamondTruckCar(30)
 diamond_truck_car.diamond()
+
