@@ -1,0 +1,459 @@
+2021-10-26 22:15:06,810 - __main__ - DEBUG - This is a debug message
+2021-10-27 23:40:55,906 - __main__ - INFO - Player's name is Peter and they're playing with X
+2021-10-27 23:40:55,914 - __main__ - INFO - User Player Peter is playing X
+2021-10-27 23:40:55,914 - __main__ - INFO - Player's name is LilyComputer and they're playing with O
+2021-10-27 23:40:55,914 - __main__ - INFO - Random Computer Player LilyComputer is playing O
+2021-10-27 23:40:55,914 - __main__ - INFO - The game board is initialized, current winner is None
+2021-10-27 23:40:55,914 - __main__ - INFO - We are numerating ['0', '1', '2'] row of the board
+2021-10-27 23:40:55,914 - __main__ - INFO - We are numerating ['3', '4', '5'] row of the board
+2021-10-27 23:40:55,914 - __main__ - INFO - We are numerating ['6', '7', '8'] row of the board
+2021-10-27 23:40:55,915 - __main__ - INFO - The squares in the board are enumerated.
+2021-10-27 23:41:22,105 - __main__ - INFO - The move with index 0 is available
+2021-10-27 23:41:22,106 - __main__ - INFO - The move with index 1 is available
+2021-10-27 23:41:22,106 - __main__ - INFO - The move with index 2 is available
+2021-10-27 23:41:22,106 - __main__ - INFO - The move with index 3 is available
+2021-10-27 23:41:22,106 - __main__ - INFO - The move with index 4 is available
+2021-10-27 23:41:22,106 - __main__ - INFO - The move with index 5 is available
+2021-10-27 23:41:22,106 - __main__ - INFO - The move with index 6 is available
+2021-10-27 23:41:22,106 - __main__ - INFO - The move with index 7 is available
+2021-10-27 23:41:22,106 - __main__ - INFO - The move with index 8 is available
+2021-10-27 23:41:22,106 - __main__ - INFO - List of available moves is [0, 1, 2, 3, 4, 5, 6, 7, 8]
+2021-10-27 23:41:22,106 - __main__ - INFO - We are at [' ', 'X', ' '] row of the board
+2021-10-27 23:41:22,106 - __main__ - INFO - We are at [' ', ' ', ' '] row of the board
+2021-10-27 23:41:22,106 - __main__ - INFO - We are at [' ', ' ', ' '] row of the board
+2021-10-27 23:41:22,106 - __main__ - INFO - The board is printed.
+2021-10-27 23:41:22,106 - __main__ - INFO - The move with index 0 is available
+2021-10-27 23:41:22,107 - __main__ - INFO - The move with index 2 is available
+2021-10-27 23:41:22,107 - __main__ - INFO - The move with index 3 is available
+2021-10-27 23:41:22,107 - __main__ - INFO - The move with index 4 is available
+2021-10-27 23:41:22,107 - __main__ - INFO - The move with index 5 is available
+2021-10-27 23:41:22,107 - __main__ - INFO - The move with index 6 is available
+2021-10-27 23:41:22,107 - __main__ - INFO - The move with index 7 is available
+2021-10-27 23:41:22,107 - __main__ - INFO - The move with index 8 is available
+2021-10-27 23:41:22,107 - __main__ - INFO - List of available moves is [0, 2, 3, 4, 5, 6, 7, 8]
+2021-10-27 23:41:22,107 - __main__ - INFO - Computer Player LilyComputer chooses to put O to 7 square
+2021-10-27 23:41:22,107 - __main__ - INFO - We are at [' ', 'X', ' '] row of the board
+2021-10-27 23:41:22,107 - __main__ - INFO - We are at [' ', ' ', ' '] row of the board
+2021-10-27 23:41:22,107 - __main__ - INFO - We are at [' ', 'O', ' '] row of the board
+2021-10-27 23:41:22,107 - __main__ - INFO - The board is printed.
+2021-10-27 23:42:08,358 - __main__ - INFO - The move with index 0 is available
+2021-10-27 23:42:08,358 - __main__ - INFO - The move with index 2 is available
+2021-10-27 23:42:08,358 - __main__ - INFO - The move with index 3 is available
+2021-10-27 23:42:08,358 - __main__ - INFO - The move with index 4 is available
+2021-10-27 23:42:08,358 - __main__ - INFO - The move with index 5 is available
+2021-10-27 23:42:08,358 - __main__ - INFO - The move with index 6 is available
+2021-10-27 23:42:08,358 - __main__ - INFO - The move with index 8 is available
+2021-10-27 23:42:08,358 - __main__ - INFO - List of available moves is [0, 2, 3, 4, 5, 6, 8]
+2021-10-27 23:42:08,358 - __main__ - INFO - We are at [' ', 'X', ' '] row of the board
+2021-10-27 23:42:08,358 - __main__ - INFO - We are at [' ', 'X', ' '] row of the board
+2021-10-27 23:42:08,359 - __main__ - INFO - We are at [' ', 'O', ' '] row of the board
+2021-10-27 23:42:08,359 - __main__ - INFO - The board is printed.
+2021-10-27 23:42:08,359 - __main__ - INFO - The move with index 0 is available
+2021-10-27 23:42:08,359 - __main__ - INFO - The move with index 2 is available
+2021-10-27 23:42:08,359 - __main__ - INFO - The move with index 3 is available
+2021-10-27 23:42:08,359 - __main__ - INFO - The move with index 5 is available
+2021-10-27 23:42:08,359 - __main__ - INFO - The move with index 6 is available
+2021-10-27 23:42:08,359 - __main__ - INFO - The move with index 8 is available
+2021-10-27 23:42:08,359 - __main__ - INFO - List of available moves is [0, 2, 3, 5, 6, 8]
+2021-10-27 23:42:08,359 - __main__ - INFO - Computer Player LilyComputer chooses to put O to 3 square
+2021-10-27 23:42:08,359 - __main__ - INFO - We are at [' ', 'X', ' '] row of the board
+2021-10-27 23:42:08,359 - __main__ - INFO - We are at ['O', 'X', ' '] row of the board
+2021-10-27 23:42:08,359 - __main__ - INFO - We are at [' ', 'O', ' '] row of the board
+2021-10-27 23:42:08,359 - __main__ - INFO - The board is printed.
+2021-10-27 23:42:21,413 - __main__ - INFO - The move with index 0 is available
+2021-10-27 23:42:21,414 - __main__ - INFO - The move with index 2 is available
+2021-10-27 23:42:21,414 - __main__ - INFO - The move with index 5 is available
+2021-10-27 23:42:21,414 - __main__ - INFO - The move with index 6 is available
+2021-10-27 23:42:21,414 - __main__ - INFO - The move with index 8 is available
+2021-10-27 23:42:21,414 - __main__ - INFO - List of available moves is [0, 2, 5, 6, 8]
+2021-10-27 23:42:21,414 - __main__ - INFO - We are at [' ', 'X', 'X'] row of the board
+2021-10-27 23:42:21,414 - __main__ - INFO - We are at ['O', 'X', ' '] row of the board
+2021-10-27 23:42:21,414 - __main__ - INFO - We are at [' ', 'O', ' '] row of the board
+2021-10-27 23:42:21,414 - __main__ - INFO - The board is printed.
+2021-10-27 23:42:21,414 - __main__ - INFO - The move with index 0 is available
+2021-10-27 23:42:21,414 - __main__ - INFO - The move with index 5 is available
+2021-10-27 23:42:21,414 - __main__ - INFO - The move with index 6 is available
+2021-10-27 23:42:21,414 - __main__ - INFO - The move with index 8 is available
+2021-10-27 23:42:21,414 - __main__ - INFO - List of available moves is [0, 5, 6, 8]
+2021-10-27 23:42:21,414 - __main__ - INFO - Computer Player LilyComputer chooses to put O to 5 square
+2021-10-27 23:42:21,414 - __main__ - INFO - We are at [' ', 'X', 'X'] row of the board
+2021-10-27 23:42:21,414 - __main__ - INFO - We are at ['O', 'X', 'O'] row of the board
+2021-10-27 23:42:21,415 - __main__ - INFO - We are at [' ', 'O', ' '] row of the board
+2021-10-27 23:42:21,415 - __main__ - INFO - The board is printed.
+2021-10-27 23:42:27,087 - __main__ - INFO - The move with index 0 is available
+2021-10-27 23:42:27,088 - __main__ - INFO - The move with index 6 is available
+2021-10-27 23:42:27,088 - __main__ - INFO - The move with index 8 is available
+2021-10-27 23:42:27,088 - __main__ - INFO - List of available moves is [0, 6, 8]
+2021-10-27 23:42:27,088 - __main__ - INFO - We are at [' ', 'X', 'X'] row of the board
+2021-10-27 23:42:27,088 - __main__ - INFO - We are at ['O', 'X', 'O'] row of the board
+2021-10-27 23:42:27,088 - __main__ - INFO - We are at ['X', 'O', ' '] row of the board
+2021-10-27 23:42:27,088 - __main__ - INFO - The board is printed.
+2021-10-27 23:43:09,244 - __main__ - INFO - Player's name is Peter and they're playing with X
+2021-10-27 23:43:09,244 - __main__ - INFO - User Player Peter is playing X
+2021-10-27 23:43:09,244 - __main__ - INFO - Player's name is LilyComputer and they're playing with O
+2021-10-27 23:43:09,244 - __main__ - INFO - Random Computer Player LilyComputer is playing O
+2021-10-27 23:43:09,244 - __main__ - INFO - The game board is initialized, current winner is None
+2021-10-27 23:43:09,244 - __main__ - INFO - The squares in the board are enumerated.
+2021-10-27 23:43:34,111 - __main__ - INFO - The move with index 0 is available
+2021-10-27 23:43:34,111 - __main__ - INFO - The move with index 1 is available
+2021-10-27 23:43:34,111 - __main__ - INFO - The move with index 2 is available
+2021-10-27 23:43:34,111 - __main__ - INFO - The move with index 3 is available
+2021-10-27 23:43:34,111 - __main__ - INFO - The move with index 4 is available
+2021-10-27 23:43:34,111 - __main__ - INFO - The move with index 5 is available
+2021-10-27 23:43:34,112 - __main__ - INFO - The move with index 6 is available
+2021-10-27 23:43:34,112 - __main__ - INFO - The move with index 7 is available
+2021-10-27 23:43:34,112 - __main__ - INFO - The move with index 8 is available
+2021-10-27 23:43:34,112 - __main__ - INFO - List of available moves is [0, 1, 2, 3, 4, 5, 6, 7, 8]
+2021-10-27 23:43:34,112 - __main__ - INFO - The board is printed.
+2021-10-27 23:43:34,112 - __main__ - INFO - The move with index 0 is available
+2021-10-27 23:43:34,112 - __main__ - INFO - The move with index 1 is available
+2021-10-27 23:43:34,112 - __main__ - INFO - The move with index 2 is available
+2021-10-27 23:43:34,112 - __main__ - INFO - The move with index 3 is available
+2021-10-27 23:43:34,112 - __main__ - INFO - The move with index 5 is available
+2021-10-27 23:43:34,112 - __main__ - INFO - The move with index 6 is available
+2021-10-27 23:43:34,112 - __main__ - INFO - The move with index 7 is available
+2021-10-27 23:43:34,112 - __main__ - INFO - The move with index 8 is available
+2021-10-27 23:43:34,112 - __main__ - INFO - List of available moves is [0, 1, 2, 3, 5, 6, 7, 8]
+2021-10-27 23:43:34,112 - __main__ - INFO - Computer Player LilyComputer chooses to put O to 3 square
+2021-10-27 23:43:34,112 - __main__ - INFO - The board is printed.
+2021-10-27 23:43:39,535 - __main__ - INFO - The move with index 0 is available
+2021-10-27 23:43:39,536 - __main__ - INFO - The move with index 1 is available
+2021-10-27 23:43:39,536 - __main__ - INFO - The move with index 2 is available
+2021-10-27 23:43:39,536 - __main__ - INFO - The move with index 5 is available
+2021-10-27 23:43:39,536 - __main__ - INFO - The move with index 6 is available
+2021-10-27 23:43:39,536 - __main__ - INFO - The move with index 7 is available
+2021-10-27 23:43:39,536 - __main__ - INFO - The move with index 8 is available
+2021-10-27 23:43:39,536 - __main__ - INFO - List of available moves is [0, 1, 2, 5, 6, 7, 8]
+2021-10-27 23:43:39,536 - __main__ - INFO - The board is printed.
+2021-10-27 23:43:39,536 - __main__ - INFO - The move with index 0 is available
+2021-10-27 23:43:39,536 - __main__ - INFO - The move with index 1 is available
+2021-10-27 23:43:39,536 - __main__ - INFO - The move with index 5 is available
+2021-10-27 23:43:39,536 - __main__ - INFO - The move with index 6 is available
+2021-10-27 23:43:39,536 - __main__ - INFO - The move with index 7 is available
+2021-10-27 23:43:39,536 - __main__ - INFO - The move with index 8 is available
+2021-10-27 23:43:39,536 - __main__ - INFO - List of available moves is [0, 1, 5, 6, 7, 8]
+2021-10-27 23:43:39,537 - __main__ - INFO - Computer Player LilyComputer chooses to put O to 6 square
+2021-10-27 23:43:39,537 - __main__ - INFO - The board is printed.
+2021-10-27 23:43:48,166 - __main__ - INFO - The move with index 0 is available
+2021-10-27 23:43:48,166 - __main__ - INFO - The move with index 1 is available
+2021-10-27 23:43:48,166 - __main__ - INFO - The move with index 5 is available
+2021-10-27 23:43:48,166 - __main__ - INFO - The move with index 7 is available
+2021-10-27 23:43:48,166 - __main__ - INFO - The move with index 8 is available
+2021-10-27 23:43:48,166 - __main__ - INFO - List of available moves is [0, 1, 5, 7, 8]
+2021-10-27 23:43:48,166 - __main__ - INFO - The board is printed.
+2021-10-27 23:43:48,166 - __main__ - INFO - The move with index 1 is available
+2021-10-27 23:43:48,166 - __main__ - INFO - The move with index 5 is available
+2021-10-27 23:43:48,166 - __main__ - INFO - The move with index 7 is available
+2021-10-27 23:43:48,167 - __main__ - INFO - The move with index 8 is available
+2021-10-27 23:43:48,167 - __main__ - INFO - List of available moves is [1, 5, 7, 8]
+2021-10-27 23:43:48,167 - __main__ - INFO - Computer Player LilyComputer chooses to put O to 8 square
+2021-10-27 23:43:48,167 - __main__ - INFO - The board is printed.
+2021-10-27 23:43:59,635 - __main__ - INFO - The move with index 1 is available
+2021-10-27 23:43:59,635 - __main__ - INFO - The move with index 5 is available
+2021-10-27 23:43:59,635 - __main__ - INFO - The move with index 7 is available
+2021-10-27 23:43:59,635 - __main__ - INFO - List of available moves is [1, 5, 7]
+2021-10-27 23:43:59,635 - __main__ - INFO - The board is printed.
+2021-10-27 23:47:45,964 - __main__ - INFO - Player's name is Peter and they're playing with X
+2021-10-27 23:47:45,965 - __main__ - INFO - User Player Peter is playing X
+2021-10-27 23:47:45,965 - __main__ - INFO - Player's name is LilyComputer and they're playing with O
+2021-10-27 23:47:45,965 - __main__ - INFO - Random Computer Player LilyComputer is playing O
+2021-10-27 23:47:45,965 - __main__ - INFO - The game board is initialized, current winner is None
+2021-10-27 23:47:45,965 - __main__ - INFO - The squares in the board are enumerated.
+2021-10-27 23:47:51,201 - __main__ - INFO - The move with index 0 is available
+2021-10-27 23:47:51,201 - __main__ - INFO - The move with index 1 is available
+2021-10-27 23:47:51,201 - __main__ - INFO - The move with index 2 is available
+2021-10-27 23:47:51,201 - __main__ - INFO - The move with index 3 is available
+2021-10-27 23:47:51,201 - __main__ - INFO - The move with index 4 is available
+2021-10-27 23:47:51,201 - __main__ - INFO - The move with index 5 is available
+2021-10-27 23:47:51,201 - __main__ - INFO - The move with index 6 is available
+2021-10-27 23:47:51,201 - __main__ - INFO - The move with index 7 is available
+2021-10-27 23:47:51,201 - __main__ - INFO - The move with index 8 is available
+2021-10-27 23:47:51,202 - __main__ - INFO - List of available moves is [0, 1, 2, 3, 4, 5, 6, 7, 8]
+2021-10-27 23:47:51,202 - __main__ - INFO - The board is printed.
+2021-10-27 23:47:51,202 - __main__ - INFO - The move with index 0 is available
+2021-10-27 23:47:51,202 - __main__ - INFO - The move with index 1 is available
+2021-10-27 23:47:51,202 - __main__ - INFO - The move with index 2 is available
+2021-10-27 23:47:51,202 - __main__ - INFO - The move with index 3 is available
+2021-10-27 23:47:51,202 - __main__ - INFO - The move with index 5 is available
+2021-10-27 23:47:51,202 - __main__ - INFO - The move with index 6 is available
+2021-10-27 23:47:51,202 - __main__ - INFO - The move with index 7 is available
+2021-10-27 23:47:51,202 - __main__ - INFO - The move with index 8 is available
+2021-10-27 23:47:51,202 - __main__ - INFO - List of available moves is [0, 1, 2, 3, 5, 6, 7, 8]
+2021-10-27 23:47:51,203 - __main__ - INFO - Computer Player LilyComputer chooses to put O to 7 square
+2021-10-27 23:47:51,203 - __main__ - INFO - The board is printed.
+2021-10-27 23:47:55,946 - __main__ - INFO - The move with index 0 is available
+2021-10-27 23:47:55,946 - __main__ - INFO - The move with index 1 is available
+2021-10-27 23:47:55,946 - __main__ - INFO - The move with index 2 is available
+2021-10-27 23:47:55,946 - __main__ - INFO - The move with index 3 is available
+2021-10-27 23:47:55,946 - __main__ - INFO - The move with index 5 is available
+2021-10-27 23:47:55,946 - __main__ - INFO - The move with index 6 is available
+2021-10-27 23:47:55,946 - __main__ - INFO - The move with index 8 is available
+2021-10-27 23:47:55,946 - __main__ - INFO - List of available moves is [0, 1, 2, 3, 5, 6, 8]
+2021-10-27 23:47:55,946 - __main__ - INFO - The board is printed.
+2021-10-27 23:47:55,946 - __main__ - INFO - The move with index 0 is available
+2021-10-27 23:47:55,946 - __main__ - INFO - The move with index 1 is available
+2021-10-27 23:47:55,947 - __main__ - INFO - The move with index 2 is available
+2021-10-27 23:47:55,947 - __main__ - INFO - The move with index 3 is available
+2021-10-27 23:47:55,947 - __main__ - INFO - The move with index 6 is available
+2021-10-27 23:47:55,947 - __main__ - INFO - The move with index 8 is available
+2021-10-27 23:47:55,947 - __main__ - INFO - List of available moves is [0, 1, 2, 3, 6, 8]
+2021-10-27 23:47:55,947 - __main__ - INFO - Computer Player LilyComputer chooses to put O to 1 square
+2021-10-27 23:47:55,947 - __main__ - INFO - The board is printed.
+2021-10-27 23:48:01,554 - __main__ - INFO - The move with index 0 is available
+2021-10-27 23:48:01,554 - __main__ - INFO - The move with index 2 is available
+2021-10-27 23:48:01,554 - __main__ - INFO - The move with index 3 is available
+2021-10-27 23:48:01,554 - __main__ - INFO - The move with index 6 is available
+2021-10-27 23:48:01,554 - __main__ - INFO - The move with index 8 is available
+2021-10-27 23:48:01,554 - __main__ - INFO - List of available moves is [0, 2, 3, 6, 8]
+2021-10-27 23:48:01,554 - __main__ - INFO - The board is printed.
+2021-10-27 23:48:01,554 - __main__ - INFO - The move with index 2 is available
+2021-10-27 23:48:01,554 - __main__ - INFO - The move with index 3 is available
+2021-10-27 23:48:01,554 - __main__ - INFO - The move with index 6 is available
+2021-10-27 23:48:01,554 - __main__ - INFO - The move with index 8 is available
+2021-10-27 23:48:01,554 - __main__ - INFO - List of available moves is [2, 3, 6, 8]
+2021-10-27 23:48:01,554 - __main__ - INFO - Computer Player LilyComputer chooses to put O to 6 square
+2021-10-27 23:48:01,555 - __main__ - INFO - The board is printed.
+2021-10-27 23:48:16,548 - __main__ - INFO - The move with index 2 is available
+2021-10-27 23:48:16,548 - __main__ - INFO - The move with index 3 is available
+2021-10-27 23:48:16,548 - __main__ - INFO - The move with index 8 is available
+2021-10-27 23:48:16,548 - __main__ - INFO - List of available moves is [2, 3, 8]
+2021-10-27 23:48:16,548 - __main__ - INFO - The board is printed.
+2021-10-27 23:48:16,548 - __main__ - INFO - The move with index 3 is available
+2021-10-27 23:48:16,548 - __main__ - INFO - The move with index 8 is available
+2021-10-27 23:48:16,548 - __main__ - INFO - List of available moves is [3, 8]
+2021-10-27 23:48:16,548 - __main__ - INFO - Computer Player LilyComputer chooses to put O to 3 square
+2021-10-27 23:48:16,548 - __main__ - INFO - The board is printed.
+2021-10-27 23:48:28,491 - __main__ - INFO - The move with index 8 is available
+2021-10-27 23:48:28,491 - __main__ - INFO - List of available moves is [8]
+2021-10-27 23:48:46,784 - __main__ - INFO - The move with index 8 is available
+2021-10-27 23:48:46,784 - __main__ - INFO - List of available moves is [8]
+2021-10-27 23:48:46,784 - __main__ - INFO - The board is printed.
+2021-10-27 23:48:52,470 - __main__ - INFO - Player's name is Peter and they're playing with X
+2021-10-27 23:48:52,471 - __main__ - INFO - User Player Peter is playing X
+2021-10-27 23:48:52,471 - __main__ - INFO - Player's name is LilyComputer and they're playing with O
+2021-10-27 23:48:52,471 - __main__ - INFO - Random Computer Player LilyComputer is playing O
+2021-10-27 23:48:52,471 - __main__ - INFO - The game board is initialized, current winner is None
+2021-10-27 23:48:52,471 - __main__ - INFO - The squares in the board are enumerated.
+2021-10-27 23:49:00,722 - __main__ - INFO - The move with index 0 is available
+2021-10-27 23:49:00,722 - __main__ - INFO - The move with index 1 is available
+2021-10-27 23:49:00,722 - __main__ - INFO - The move with index 2 is available
+2021-10-27 23:49:00,722 - __main__ - INFO - The move with index 3 is available
+2021-10-27 23:49:00,722 - __main__ - INFO - The move with index 4 is available
+2021-10-27 23:49:00,722 - __main__ - INFO - The move with index 5 is available
+2021-10-27 23:49:00,722 - __main__ - INFO - The move with index 6 is available
+2021-10-27 23:49:00,722 - __main__ - INFO - The move with index 7 is available
+2021-10-27 23:49:00,722 - __main__ - INFO - The move with index 8 is available
+2021-10-27 23:49:00,722 - __main__ - INFO - List of available moves is [0, 1, 2, 3, 4, 5, 6, 7, 8]
+2021-10-27 23:49:00,722 - __main__ - INFO - The board is printed.
+2021-10-27 23:49:00,722 - __main__ - INFO - The move with index 0 is available
+2021-10-27 23:49:00,723 - __main__ - INFO - The move with index 1 is available
+2021-10-27 23:49:00,723 - __main__ - INFO - The move with index 2 is available
+2021-10-27 23:49:00,723 - __main__ - INFO - The move with index 3 is available
+2021-10-27 23:49:00,723 - __main__ - INFO - The move with index 4 is available
+2021-10-27 23:49:00,723 - __main__ - INFO - The move with index 5 is available
+2021-10-27 23:49:00,723 - __main__ - INFO - The move with index 6 is available
+2021-10-27 23:49:00,723 - __main__ - INFO - The move with index 8 is available
+2021-10-27 23:49:00,723 - __main__ - INFO - List of available moves is [0, 1, 2, 3, 4, 5, 6, 8]
+2021-10-27 23:49:00,723 - __main__ - INFO - Computer Player LilyComputer chooses to put O to 1 square
+2021-10-27 23:49:00,723 - __main__ - INFO - The board is printed.
+2021-10-27 23:49:05,878 - __main__ - INFO - The move with index 0 is available
+2021-10-27 23:49:05,878 - __main__ - INFO - The move with index 2 is available
+2021-10-27 23:49:05,878 - __main__ - INFO - The move with index 3 is available
+2021-10-27 23:49:05,878 - __main__ - INFO - The move with index 4 is available
+2021-10-27 23:49:05,878 - __main__ - INFO - The move with index 5 is available
+2021-10-27 23:49:05,878 - __main__ - INFO - The move with index 6 is available
+2021-10-27 23:49:05,878 - __main__ - INFO - The move with index 8 is available
+2021-10-27 23:49:05,878 - __main__ - INFO - List of available moves is [0, 2, 3, 4, 5, 6, 8]
+2021-10-27 23:49:05,878 - __main__ - INFO - The board is printed.
+2021-10-27 23:49:05,878 - __main__ - INFO - The move with index 0 is available
+2021-10-27 23:49:05,878 - __main__ - INFO - The move with index 2 is available
+2021-10-27 23:49:05,879 - __main__ - INFO - The move with index 3 is available
+2021-10-27 23:49:05,879 - __main__ - INFO - The move with index 4 is available
+2021-10-27 23:49:05,879 - __main__ - INFO - The move with index 6 is available
+2021-10-27 23:49:05,879 - __main__ - INFO - The move with index 8 is available
+2021-10-27 23:49:05,879 - __main__ - INFO - List of available moves is [0, 2, 3, 4, 6, 8]
+2021-10-27 23:49:05,879 - __main__ - INFO - Computer Player LilyComputer chooses to put O to 2 square
+2021-10-27 23:49:05,879 - __main__ - INFO - The board is printed.
+2021-10-27 23:49:09,109 - __main__ - INFO - The move with index 0 is available
+2021-10-27 23:49:09,109 - __main__ - INFO - The move with index 3 is available
+2021-10-27 23:49:09,110 - __main__ - INFO - The move with index 4 is available
+2021-10-27 23:49:09,110 - __main__ - INFO - The move with index 6 is available
+2021-10-27 23:49:09,110 - __main__ - INFO - The move with index 8 is available
+2021-10-27 23:49:09,110 - __main__ - INFO - List of available moves is [0, 3, 4, 6, 8]
+2021-10-27 23:49:09,110 - __main__ - INFO - The board is printed.
+2021-10-27 23:49:09,110 - __main__ - INFO - The move with index 3 is available
+2021-10-27 23:49:09,110 - __main__ - INFO - The move with index 4 is available
+2021-10-27 23:49:09,110 - __main__ - INFO - The move with index 6 is available
+2021-10-27 23:49:09,110 - __main__ - INFO - The move with index 8 is available
+2021-10-27 23:49:09,110 - __main__ - INFO - List of available moves is [3, 4, 6, 8]
+2021-10-27 23:49:09,110 - __main__ - INFO - Computer Player LilyComputer chooses to put O to 3 square
+2021-10-27 23:49:09,110 - __main__ - INFO - The board is printed.
+2021-10-27 23:49:31,126 - __main__ - INFO - The move with index 4 is available
+2021-10-27 23:49:31,126 - __main__ - INFO - The move with index 6 is available
+2021-10-27 23:49:31,126 - __main__ - INFO - The move with index 8 is available
+2021-10-27 23:49:31,126 - __main__ - INFO - List of available moves is [4, 6, 8]
+2021-10-27 23:49:31,126 - __main__ - INFO - The board is printed.
+2021-10-27 23:49:31,126 - __main__ - INFO - The move with index 4 is available
+2021-10-27 23:49:31,126 - __main__ - INFO - The move with index 8 is available
+2021-10-27 23:49:31,126 - __main__ - INFO - List of available moves is [4, 8]
+2021-10-27 23:49:31,127 - __main__ - INFO - Computer Player LilyComputer chooses to put O to 4 square
+2021-10-27 23:49:31,127 - __main__ - INFO - The board is printed.
+2021-10-27 23:49:45,171 - __main__ - INFO - The move with index 8 is available
+2021-10-27 23:49:45,171 - __main__ - INFO - List of available moves is [8]
+2021-10-27 23:49:45,171 - __main__ - INFO - The board is printed.
+2021-10-28 00:06:03,801 - __main__ - INFO - Player's name is Peter and they're playing with X
+2021-10-28 00:06:03,802 - __main__ - INFO - User Player Peter is playing X
+2021-10-28 00:06:03,802 - __main__ - INFO - Player's name is LilyComputer and they're playing with O
+2021-10-28 00:06:03,802 - __main__ - INFO - Random Computer Player LilyComputer is playing O
+2021-10-28 00:06:03,802 - __main__ - INFO - The game board is initialized, current winner is None
+2021-10-28 00:06:03,802 - __main__ - INFO - The squares in the board are enumerated.
+2021-10-28 00:06:12,818 - __main__ - INFO - The move with index 0 is available
+2021-10-28 00:06:12,819 - __main__ - INFO - The move with index 1 is available
+2021-10-28 00:06:12,819 - __main__ - INFO - The move with index 2 is available
+2021-10-28 00:06:12,819 - __main__ - INFO - The move with index 3 is available
+2021-10-28 00:06:12,819 - __main__ - INFO - The move with index 4 is available
+2021-10-28 00:06:12,819 - __main__ - INFO - The move with index 5 is available
+2021-10-28 00:06:12,819 - __main__ - INFO - The move with index 6 is available
+2021-10-28 00:06:12,819 - __main__ - INFO - The move with index 7 is available
+2021-10-28 00:06:12,819 - __main__ - INFO - The move with index 8 is available
+2021-10-28 00:06:12,819 - __main__ - INFO - List of available moves is [0, 1, 2, 3, 4, 5, 6, 7, 8]
+2021-10-28 00:06:12,819 - __main__ - INFO - Peter makes a move with X to 0
+2021-10-28 00:06:12,819 - __main__ - INFO - The board is printed.
+2021-10-28 00:06:12,819 - __main__ - INFO - The move with index 1 is available
+2021-10-28 00:06:12,820 - __main__ - INFO - The move with index 2 is available
+2021-10-28 00:06:12,820 - __main__ - INFO - The move with index 3 is available
+2021-10-28 00:06:12,820 - __main__ - INFO - The move with index 4 is available
+2021-10-28 00:06:12,820 - __main__ - INFO - The move with index 5 is available
+2021-10-28 00:06:12,820 - __main__ - INFO - The move with index 6 is available
+2021-10-28 00:06:12,820 - __main__ - INFO - The move with index 7 is available
+2021-10-28 00:06:12,820 - __main__ - INFO - The move with index 8 is available
+2021-10-28 00:06:12,820 - __main__ - INFO - List of available moves is [1, 2, 3, 4, 5, 6, 7, 8]
+2021-10-28 00:06:12,820 - __main__ - INFO - Computer Player LilyComputer chooses to put O to 7 square
+2021-10-28 00:06:12,820 - __main__ - INFO - LilyComputer makes a move with O to 7
+2021-10-28 00:06:12,820 - __main__ - INFO - The board is printed.
+2021-10-28 00:06:39,514 - __main__ - INFO - Player's name is Peter and they're playing with X
+2021-10-28 00:06:39,525 - __main__ - INFO - User Player Peter is playing X
+2021-10-28 00:06:39,525 - __main__ - INFO - Player's name is LilyComputer and they're playing with O
+2021-10-28 00:06:39,525 - __main__ - INFO - Random Computer Player LilyComputer is playing O
+2021-10-28 00:06:39,525 - __main__ - INFO - The game board is initialized, current winner is None
+2021-10-28 00:06:39,525 - __main__ - INFO - The squares in the board are enumerated.
+2021-10-28 00:07:04,928 - __main__ - INFO - User Player Peter is playing X
+2021-10-28 00:07:04,937 - __main__ - INFO - Random Computer Player LilyComputer is playing O
+2021-10-28 00:07:04,937 - __main__ - INFO - The game board is initialized, current winner is None
+2021-10-28 00:07:04,937 - __main__ - INFO - The squares in the board are enumerated.
+2021-10-28 00:07:31,711 - __main__ - INFO - List of available moves is [0, 1, 2, 3, 4, 5, 6, 7, 8]
+2021-10-28 00:07:31,711 - __main__ - INFO - Peter makes a move with X to 3
+2021-10-28 00:07:31,711 - __main__ - INFO - The board is printed.
+2021-10-28 00:07:31,711 - __main__ - INFO - List of available moves is [0, 1, 2, 4, 5, 6, 7, 8]
+2021-10-28 00:07:31,711 - __main__ - INFO - Computer Player LilyComputer chooses to put O to 2 square
+2021-10-28 00:07:31,711 - __main__ - INFO - LilyComputer makes a move with O to 2
+2021-10-28 00:07:31,711 - __main__ - INFO - The board is printed.
+2021-10-28 00:08:55,831 - __main__ - INFO - User Player Peter is playing X
+2021-10-28 00:08:55,831 - __main__ - INFO - Random Computer Player LilyComputer is playing O
+2021-10-28 00:08:55,831 - __main__ - INFO - The game board is initialized, current winner is None
+2021-10-28 00:08:55,831 - __main__ - INFO - The squares in the board are enumerated.
+2021-10-28 00:09:09,189 - __main__ - INFO - User Player Peter is playing X
+2021-10-28 00:09:09,189 - __main__ - INFO - Random Computer Player LilyComputer is playing O
+2021-10-28 00:09:09,189 - __main__ - INFO - The game board is initialized, current winner is None
+2021-10-28 00:09:09,189 - __main__ - INFO - The squares in the board are enumerated.
+2021-10-28 00:28:53,342 - __main__ - INFO - User Player Peter is playing X
+2021-10-28 00:28:53,342 - __main__ - INFO - Random Computer Player LilyComputer is playing O
+2021-10-28 00:28:53,342 - __main__ - INFO - The game board is initialized, current winner is None
+2021-10-28 00:29:01,317 - __main__ - INFO - The squares in the board are enumerated.
+2021-10-28 00:29:05,623 - __main__ - INFO - List of available moves is [0, 1, 2, 3, 4, 5, 6, 7, 8]
+2021-10-28 00:29:05,623 - __main__ - INFO - Peter makes a move with X to 0
+2021-10-28 00:29:05,623 - __main__ - INFO - The board is printed.
+2021-10-28 00:29:05,623 - __main__ - INFO - List of available moves is [1, 2, 3, 4, 5, 6, 7, 8]
+2021-10-28 00:29:05,623 - __main__ - INFO - Computer Player LilyComputer chooses to put O to 3 square
+2021-10-28 00:29:05,623 - __main__ - INFO - LilyComputer makes a move with O to 3
+2021-10-28 00:29:05,623 - __main__ - INFO - The board is printed.
+2021-10-28 00:29:08,753 - __main__ - INFO - List of available moves is [1, 2, 4, 5, 6, 7, 8]
+2021-10-28 00:29:08,753 - __main__ - INFO - Peter makes a move with X to 5
+2021-10-28 00:29:08,754 - __main__ - INFO - The board is printed.
+2021-10-28 00:29:08,754 - __main__ - INFO - List of available moves is [1, 2, 4, 6, 7, 8]
+2021-10-28 00:29:08,754 - __main__ - INFO - Computer Player LilyComputer chooses to put O to 7 square
+2021-10-28 00:29:08,754 - __main__ - INFO - LilyComputer makes a move with O to 7
+2021-10-28 00:29:08,754 - __main__ - INFO - The board is printed.
+2021-10-28 00:29:11,467 - __main__ - INFO - List of available moves is [1, 2, 4, 6, 8]
+2021-10-28 00:29:11,467 - __main__ - INFO - Peter makes a move with X to 4
+2021-10-28 00:29:11,468 - __main__ - INFO - The board is printed.
+2021-10-28 00:29:11,468 - __main__ - INFO - List of available moves is [1, 2, 6, 8]
+2021-10-28 00:29:11,468 - __main__ - INFO - Computer Player LilyComputer chooses to put O to 1 square
+2021-10-28 00:29:11,468 - __main__ - INFO - LilyComputer makes a move with O to 1
+2021-10-28 00:29:11,468 - __main__ - INFO - The board is printed.
+2021-10-28 00:29:16,116 - __main__ - INFO - List of available moves is [2, 6, 8]
+2021-10-28 00:29:16,116 - __main__ - ERROR - Invalid square, try again.
+2021-10-28 00:29:50,539 - __main__ - INFO - List of available moves is [2, 6, 8]
+2021-10-28 00:29:50,539 - __main__ - INFO - Peter makes a move with X to 8
+2021-10-28 00:29:50,539 - __main__ - INFO - The board is printed.
+2021-10-28 00:29:50,539 - __main__ - WARNING - Peter with X wins!
+2021-10-28 00:30:30,730 - __main__ - INFO - User Player Peter is playing X
+2021-10-28 00:30:30,731 - __main__ - INFO - Random Computer Player LilyComputer is playing O
+2021-10-28 00:30:30,732 - __main__ - INFO - The game board is initialized, current winner is None
+2021-10-28 00:31:47,635 - __main__ - INFO - User Player Peter is playing X
+2021-10-28 00:31:47,635 - __main__ - INFO - Random Computer Player LilyComputer is playing O
+2021-10-28 00:31:47,635 - __main__ - INFO - The game board is initialized, current winner is None
+2021-10-28 00:32:42,457 - __main__ - INFO - User Player Peter is playing X
+2021-10-28 00:32:42,458 - __main__ - INFO - Random Computer Player LilyComputer is playing O
+2021-10-28 00:32:42,458 - __main__ - INFO - The game board is initialized, current winner is None
+2021-10-28 00:32:47,644 - __main__ - INFO - Goodbye, have a nice day!
+2021-10-28 00:32:51,132 - __main__ - INFO - User Player Peter is playing X
+2021-10-28 00:32:51,132 - __main__ - INFO - Random Computer Player LilyComputer is playing O
+2021-10-28 00:32:51,132 - __main__ - INFO - The game board is initialized, current winner is None
+2021-10-28 00:33:54,142 - __main__ - INFO - User Player Peter is playing X
+2021-10-28 00:33:54,142 - __main__ - INFO - Random Computer Player LilyComputer is playing O
+2021-10-28 00:33:54,142 - __main__ - INFO - The game board is initialized, current winner is None
+2021-10-28 00:34:25,865 - __main__ - INFO - User Player Peter is playing X
+2021-10-28 00:34:25,868 - __main__ - INFO - Random Computer Player LilyComputer is playing O
+2021-10-28 00:34:25,868 - __main__ - INFO - The game board is initialized, current winner is None
+2021-10-28 00:35:27,189 - __main__ - INFO - User Player Peter is playing X
+2021-10-28 00:35:27,189 - __main__ - INFO - Random Computer Player LilyComputer is playing O
+2021-10-28 00:35:27,189 - __main__ - INFO - The game board is initialized, current winner is None
+2021-10-28 00:36:05,143 - __main__ - INFO - User Player Peter is playing X
+2021-10-28 00:36:05,144 - __main__ - INFO - Random Computer Player LilyComputer is playing O
+2021-10-28 00:36:05,144 - __main__ - INFO - The game board is initialized, current winner is None
+2021-10-28 00:37:39,631 - __main__ - INFO - User Player Peter is playing X
+2021-10-28 00:37:39,631 - __main__ - INFO - Random Computer Player LilyComputer is playing O
+2021-10-28 00:37:39,631 - __main__ - INFO - The game board is initialized, current winner is None
+2021-10-28 00:37:55,192 - __main__ - INFO - Goodbye, have a nice day!
+2021-10-28 00:38:40,434 - __main__ - INFO - User Player Peter is playing X
+2021-10-28 00:38:40,434 - __main__ - INFO - Random Computer Player LilyComputer is playing O
+2021-10-28 00:38:40,434 - __main__ - INFO - The game board is initialized, current winner is None
+2021-10-28 00:39:15,311 - __main__ - ERROR - Wrong input try numbers from 1 to 4
+2021-10-28 00:39:27,382 - __main__ - INFO - Goodbye, have a nice day!
+2021-10-28 00:40:37,100 - __main__ - INFO - User Player Peter is playing X
+2021-10-28 00:40:37,102 - __main__ - INFO - Random Computer Player LilyComputer is playing O
+2021-10-28 00:40:37,102 - __main__ - INFO - The game board is initialized, current winner is None
+2021-10-28 00:40:46,530 - __main__ - INFO - Goodbye, have a nice day!
+2021-10-28 00:41:53,354 - __main__ - INFO - User Player Peter is playing X
+2021-10-28 00:41:53,363 - __main__ - INFO - Random Computer Player LilyComputer is playing O
+2021-10-28 00:41:53,363 - __main__ - INFO - The game board is initialized, current winner is None
+2021-10-28 00:41:55,897 - __main__ - INFO - The squares in the board are enumerated.
+2021-10-28 00:41:59,479 - __main__ - INFO - List of available moves is [0, 1, 2, 3, 4, 5, 6, 7, 8]
+2021-10-28 00:41:59,479 - __main__ - INFO - Peter makes a move with X to 4
+2021-10-28 00:41:59,479 - __main__ - INFO - The board is printed.
+2021-10-28 00:41:59,480 - __main__ - INFO - List of available moves is [0, 1, 2, 3, 5, 6, 7, 8]
+2021-10-28 00:41:59,480 - __main__ - INFO - Computer Player LilyComputer chooses to put O to 8 square
+2021-10-28 00:41:59,480 - __main__ - INFO - LilyComputer makes a move with O to 8
+2021-10-28 00:41:59,480 - __main__ - INFO - The board is printed.
+2021-10-28 00:42:02,241 - __main__ - INFO - List of available moves is [0, 1, 2, 3, 5, 6, 7]
+2021-10-28 00:42:02,241 - __main__ - ERROR - Invalid square, try again.
+2021-10-28 00:42:08,610 - __main__ - INFO - List of available moves is [0, 1, 2, 3, 5, 6, 7]
+2021-10-28 00:42:08,610 - __main__ - INFO - Peter makes a move with X to 2
+2021-10-28 00:42:08,610 - __main__ - INFO - The board is printed.
+2021-10-28 00:42:08,610 - __main__ - INFO - List of available moves is [0, 1, 3, 5, 6, 7]
+2021-10-28 00:42:08,610 - __main__ - INFO - Computer Player LilyComputer chooses to put O to 6 square
+2021-10-28 00:42:08,610 - __main__ - INFO - LilyComputer makes a move with O to 6
+2021-10-28 00:42:08,610 - __main__ - INFO - The board is printed.
+2021-10-28 00:42:17,938 - __main__ - INFO - List of available moves is [0, 1, 3, 5, 7]
+2021-10-28 00:42:17,939 - __main__ - INFO - Peter makes a move with X to 7
+2021-10-28 00:42:17,939 - __main__ - INFO - The board is printed.
+2021-10-28 00:42:17,939 - __main__ - INFO - List of available moves is [0, 1, 3, 5]
+2021-10-28 00:42:17,939 - __main__ - INFO - Computer Player LilyComputer chooses to put O to 3 square
+2021-10-28 00:42:17,939 - __main__ - INFO - LilyComputer makes a move with O to 3
+2021-10-28 00:42:17,939 - __main__ - INFO - The board is printed.
+2021-10-28 00:42:23,344 - __main__ - INFO - List of available moves is [0, 1, 5]
+2021-10-28 00:42:23,344 - __main__ - INFO - Peter makes a move with X to 1
+2021-10-28 00:42:23,345 - __main__ - INFO - The board is printed.
+2021-10-28 00:42:23,345 - __main__ - WARNING - Peter with X wins!
+2021-10-28 00:42:23,345 - __main__ - WARNING - Peter with X wins!
